@@ -2,7 +2,7 @@
 
 This repo provides our paper's model: 
 BIOptimus: Pre-training an Optimal Biomedical Language Model with Curriculum Learning for Named Entity Recognition (BioNLP workshop @ ACL 2023). 
-HuggingFace (https://huggingface.co/rttl-ai/BIOptimus)
+[HuggingFace](https://huggingface.co/rttl-ai/BIOptimus)
 BIOptimus is a new pre-trained biomedical language model pre-trained using contextualized weight distillation and Curriculum Learning. 
 
 ![alt text](https://github.com/rttl-ai/BIOptimus/blob/main/fig2.png?raw=true)
