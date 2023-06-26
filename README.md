@@ -22,4 +22,4 @@ Curriculum Learning is an easy-to-hard strategy that helps to guide the model's 
 
 Different training techniques like masking rate and masking strategies help to broaden the model's experience, gain more diversified knowledge of textual input, speed up pre-training, and enhance performance on downstream tasks like NER.
 
-Table 5
+![alt text](https://github.com/rttl-ai/BIOptimus/blob/main/tab5.png?raw=true)
